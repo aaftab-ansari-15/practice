@@ -1,0 +1,46 @@
+[
+    {
+        "id": "1",
+        "name": "bug fix",
+        "description": "fix bugs on new project",
+        "priority": "High",
+        "status": "Pending",
+        "category": "Work"
+    },
+    {
+        "id": "2",
+        "name": "make video games",
+        "description": "make new video game for client",
+        "priority": "Medium",
+        "status": "Completed",
+        "category": "Work"
+
+    },
+    {
+        "id": "3",
+        "name": "Buy gifts",
+        "description": "Buy gifts for kids",
+        "priority": "Low",
+        "status": "Pending",
+        "category": "Personal"
+
+    },
+    {
+        "id": "4",
+        "name": "Grocery shoping",
+        "description": "Go to market to buy grocery with family",
+        "priority": "Low",
+        "status": "Complted",
+        "category": "Personal"
+
+    },
+    {
+        "id": "5",
+        "name": "Movie waching",
+        "description": "Go with firends to wathc movie",
+        "priority": "Medium",
+        "status": "Pending",
+        "category": "Personal"
+
+    }
+]
